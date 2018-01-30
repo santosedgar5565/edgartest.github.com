@@ -1,0 +1,9 @@
+.styledFont {
+color: blue;
+font-style: italic;
+font-weight: bold;
+}
+
+#styledImage {
+	border: 5px solid yellow;
+}
